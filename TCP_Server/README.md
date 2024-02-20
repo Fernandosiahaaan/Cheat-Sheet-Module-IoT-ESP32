@@ -13,5 +13,5 @@ This Repository describe of example aplication Modbus TCP/IP in esp32 using Ardu
 - Install VSCode Tools
 - Add Extension PlatformIO in VSCode
 - Install PlatformIO CLI (**optional**)
-- Edit SSID and Pass WiFi in `main/hpp` Line `7-8`
+- Edit SSID and Pass WiFi in [`main/hpp`](https://github.com/Fernandosiahaaan/Cheat-Sheet-Module-IoT-ESP32/blob/main/TCP_Server/src/main.hpp#L7-L8)
 - Upload & Serial Monitor this File
