@@ -11,8 +11,8 @@ This Repository describe about list of example general module/protocol in IoT Fi
 
 ## PreSetup
 
-- Install GIT CLI in (here)[https://git-scm.com/downloads]
-- Install VSCode Tools in (here)[https://code.visualstudio.com/download]
+- Install [GIT CLI](https://git-scm.com/downloads)
+- Install [VSCode Tools](https://code.visualstudio.com/download)
 - Add Extension PlatformIO in VSCode.
 - Install PlatformIO CLI (**optional**)
 
