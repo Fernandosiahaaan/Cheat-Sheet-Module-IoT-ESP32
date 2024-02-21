@@ -14,4 +14,4 @@ This Repository describe of example aplication Modbus TCP/IP in esp32 using Ardu
 - Install PlatformIO CLI (**optional**)
 - Edit SSID and Pass WiFi in `main/hpp` Line `18-19`
 - Edit IP Adress Client and Server in `main/hpp` Line `7-11`
-- Upload & Serial Monitor this File
+- Upload & Serial Monitor in this File
