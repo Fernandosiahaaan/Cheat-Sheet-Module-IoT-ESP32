@@ -4,7 +4,7 @@ This Repository describe of example aplication Modbus TCP/IP in esp32 using Ardu
 
 ## List Of Fiture
 
-- Library Modbus Server TCP/IP (`library/Modbus-TCP-Server/serverTCP.hpp`)
+- Library Modbus Client TCP/IP (`ModbusClientTCP.h`)
 - Basic Wifi Connetion (`WiFi.h`)
 
 ## PreSetup

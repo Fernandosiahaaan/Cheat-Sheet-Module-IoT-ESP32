@@ -4,8 +4,7 @@ This Repository describe of example aplication scaning BLE Device in esp32 using
 
 ## List Of Fiture
 
-- Library Modbus Server TCP/IP (`library/Modbus-TCP-Server/serverTCP.hpp`)
-- Basic Wifi Connetion (`WiFi.h`)
+- Library `esp_ble`, `uart_driver`, `nvs_flash`, etc.
 
 ## PreSetup
 
