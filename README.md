@@ -4,9 +4,9 @@ This Repository describe about list of example general module/protocol in IoT Fi
 
 ## List of Feature
 
-- Modbus TCP Server
-- Modbus TCP Client
-- MQTT Client
+- Modbus TCP Server (`Arduino Framework`)
+- Modbus TCP Client (`Arduino Framework`)
+- BLE Scan (`ESP-IDF Framework`)
 - etc
 
 ## PreSetup
@@ -45,6 +45,7 @@ Example =
 
 ```
 .
+├── BLE_Scaning             # Example Repo of Scan BLE Devices
 ├── library                 # List of Module/protocol sensor IoT
 │   ├── General
 │   │   ├── general.h
