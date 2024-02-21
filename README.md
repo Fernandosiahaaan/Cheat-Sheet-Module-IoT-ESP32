@@ -25,7 +25,21 @@ cd TCP_Client # exmaple select one of example you need
 code .
 ```
 
-After that `upload` & `Serial monitor` using `PlatformIO` tools.
+Use `Upload` and `Serial monitor` using `PlatformIO` tools at the bottom (look for icons on the right side and the bottom). If you have installed `PlatformIo CLI`, you can run it using the VSCode terminal.
+
+Command Line =
+
+```
+ pio device monitor --rts 0 --dtr 0 --port NoPort -b Baudrate -f
+ pio run -e esp32doit-devkit-v1 --upload-port NoPort -t upload
+```
+
+Example =
+
+```
+ pio device monitor --rts 0 --dtr 0 --port COM10 -b 115200 -f
+ pio run -e esp32doit-devkit-v1 --upload-port COM10 -t upload
+```
 
 ## File Tree
 
